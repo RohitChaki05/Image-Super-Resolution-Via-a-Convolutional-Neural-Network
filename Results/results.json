@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "lr": 0.001,
+  "batch_size": 2,
+  "epochs": 100,
+  "best_val_psnr": 27.3289852142334,
+  "test_psnr_srcnn": 28.483928680419922,
+  "test_mse_srcnn": 0.0017114225775003433,
+  "test_psnr_nearest": 26.17022705078125,
+  "test_mse_nearest": 0.0028156007174402475,
+  "test_psnr_bilinear": 26.761913299560547,
+  "test_mse_bilinear": 0.002527223201468587,
+  "test_psnr_bicubic": 27.8586483001709,
+  "test_mse_bicubic": 0.001989213516935706
+}
